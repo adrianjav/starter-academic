@@ -3,7 +3,11 @@ role: PhD student
 avatar_filename: 25713831.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
-interests: []
+interests:
+- Probabilistic Machine Learning
+- Multi-task Learning
+- Information Geometry
+
 social:
   - icon: envelope
     icon_pack: fas
