@@ -28,12 +28,14 @@ abstract: Learning expressive probabilistic models correctly describing the data
 summary: By using relative gradients we propose a new approach for exact training of neural networks where the log-determinant of the Jacobian appears in the loss function as it happens, e.g., in normalizing flows.
 
 tags:
-- Normalizing flows
-- Deep Learning
-- Relative gradient
+- normalizing flows
+- deep learning
+- relative gradient
 featured: false
 
 links:
+- name: arxiv
+  url: https://arxiv.org/abs/2006.15090
 url_pdf: https://proceedings.neurips.cc/paper/2020/file/c10f48884c9c7fdbd9a7959c59eebea8-Paper.pdf
 url_code: https://github.com/fissoreg/relative-gradient-jacobian
 # url_dataset: '#'
@@ -64,6 +66,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
