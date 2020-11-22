@@ -1,11 +1,13 @@
 ---
 role: PhD student
-avatar_filename: 25713831.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: avatar.jpg
+bio: I am a PhD student in probabilistic machine learning on heterogeneous data.
 interests:
 - Probabilistic Machine Learning
 - Multi-task Learning
+- Out-of-domain generalization
+- Non-convex optimization
+- Differential Geometry
 - Information Geometry
 
 social:
