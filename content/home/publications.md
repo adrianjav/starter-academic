@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = "[Filter publications](./publication/)."
+subtitle = "[Filter publications](./publication/)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -67,6 +67,3 @@ subtitle = "[Filter publications](./publication/)."
  css_class = ""
 +++
 
-#{{% callout note %}}
-# Quickly discover relevant content by [filtering publications](./publication/).
-#{{% /callout %}}
