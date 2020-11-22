@@ -31,7 +31,7 @@ tags:
 - Normalizing flows
 - Deep Learning
 - Relative gradient
-featured: true
+featured: false
 
 links:
 url_pdf: https://proceedings.neurips.cc/paper/2020/file/c10f48884c9c7fdbd9a7959c59eebea8-Paper.pdf
