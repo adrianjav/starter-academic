@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Recent Publications
-subtitle: ''
+subtitle: '[Filter publications](./publication/)'
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -37,6 +37,8 @@ design:
   view: 4
 ---
 
-{{% callout note %}}
+
+
+<!--{{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+{{% /callout %}}-->
