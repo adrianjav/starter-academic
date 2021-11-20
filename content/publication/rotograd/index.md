@@ -34,7 +34,7 @@ links:
   - name: arxiv
     url: https://arxiv.org/abs/2103.02631
   - name: Thread
-    url: 
+    url: https://twitter.com/javaloyML/status/1447849156517765120
 url_pdf: https://arxiv.org/pdf/2103.02631.pdf
 url_code: https://github.com/adrianjav/rotograd
 # url_dataset: '#'
