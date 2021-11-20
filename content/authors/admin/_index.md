@@ -14,7 +14,7 @@ organizations:
   url: https://www.uni-saarland.de/en/home.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a PhD student in probabilistic machine learning on heterogeneous data.
 
 # Interests to show in About widget
 interests:
