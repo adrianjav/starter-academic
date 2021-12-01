@@ -70,7 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-My name is Adrián Javaloy and I am a PhD student at the Probabilistic Machine Learning group with my advisor [Isabel Valera](https://ivaleram.github.io/) at [Saarland University](https://saarland-informatics-campus.de/en/). 
+My name is Adrián Javaloy and I am a PhD student at the Probabilistic Machine Learning group advised by [Isabel Valera](https://ivaleram.github.io/) at [Saarland University](https://saarland-informatics-campus.de/en/). You can find my CV [here](uploads/resume.pdf).
 
 I am mostly interested in principled research that aims to better understand modern machine learning and how to make it easier to work. This includes probabilistic machine learning, work on heterogeneous data, out-of-domain generalization, differential geometry, and non-convex optimization, among others.
 
