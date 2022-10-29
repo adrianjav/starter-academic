@@ -1,7 +1,7 @@
 ---
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featurette
+widget: features
 active: false
 
 # This file represents a page section.
