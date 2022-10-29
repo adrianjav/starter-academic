@@ -17,8 +17,8 @@ publishDate: "2022-09-06T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Mitigating Modality Collapse in Multimodal VAEs via Impartial Optimization"
-publication_short: "Mitigating Modality Collapse in Multimodal VAEs"
+publication: "*International Conference on Machine Learning*"
+publication_short: "*ICML*"
 
 abstract: "A number of variational autoencoders (VAEs) have recently emerged with the aim of modeling multimodal data, e.g., to jointly model images and their corresponding captions. Still, multimodal VAEs tend to focus solely on a subset of the modalities, e.g., by fitting the image while neglecting the caption. We refer to this limitation as modality collapse. In this work, we argue that this effect is a consequence of conflicting gradients during multimodal VAE training. We show how to detect the sub-graphs in the computational graphs where gradients conflict (impartiality blocks), as well as how to leverage existing gradient-conflict solutions from multitask learning to mitigate modality collapse. That is, to ensure impartial optimization across modalities. We apply our training framework to several multimodal VAE models, losses and datasets from the literature, and empirically show that our framework significantly improves the reconstruction performance, conditional generation, and coherence of the latent space across modalities."
 
@@ -35,9 +35,9 @@ featured: true
 links: 
   - name: arXiv
     url: https://arxiv.org/abs/2206.04496
-  - name: Thread
+  - name: '<i class="fab fa-twitter"></i> thread'
     url: https://twitter.com/javaloyML/status/1536299712881500163
-  - name: ICML proceedings
+  - name: Proceedings
     url: https://proceedings.mlr.press/v162/javaloy22a.html
 # url_pdf: https://arxiv.org/pdf/2206.04496.pdf
 url_code: https://media.icml.cc/Conferences/ICML2022/supplementary/javaloy22a-supp.zip

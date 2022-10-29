@@ -16,8 +16,8 @@ publishDate: "2020-22-11T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Multidisciplinary Digital Publishing Institute"
-publication_short: "MDPI"
+publication: "*Multidisciplinary Digital Publishing Institute*"
+publication_short: "*MDPI*"
 
 abstract: "The encoder–decoder architecture is a well-established, effective and widely used approach in many tasks of natural language processing (NLP), among other domains. It consists of two closely-collaborating components: An encoder that transforms the input into an intermediate form, and a decoder producing the output. This paper proposes a new method for the encoder, named Causal Feature Extractor (CFE), based on three main ideas: Causal convolutions, dilatations and bidirectionality. We apply this method to text normalization, which is a ubiquitous problem that appears as the first step of many text-to-speech (TTS) systems. Given a text with symbols, the problem consists in writing the text exactly as it should be read by the TTS system. We make use of an attention-based encoder–decoder architecture using a fine-grained character-level approach rather than the usual word-level one. The proposed CFE is compared to other common encoders, such as convolutional neural networks (CNN) and long-short term memories (LSTM). Experimental results show the feasibility of CFE, achieving better results in terms of accuracy, number of parameters, convergence time, and use of an attention mechanism based on attention matrices. The obtained accuracy ranges from 83.5% to 96.8% correctly normalized sentences, depending on the dataset. Moreover, the proposed method is generic and can be applied to different types of input such as text, audio and images."
 
@@ -32,7 +32,7 @@ tags:
 featured: false
 
 links:
-- name: arxiv
+- name: arXiv
   url: https://arxiv.org/abs/1903.02642
 url_pdf: https://www.mdpi.com/2076-3417/10/13/4551/pdf
 url_code: https://github.com/adrianjav/text-normalization

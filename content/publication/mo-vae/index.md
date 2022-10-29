@@ -17,8 +17,8 @@ publishDate: "2021-12-21T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In *NeurIPS 2021 Workshop: Your Model is Wrong: Robustness and misspecification in probabilistic modeling*"
-publication_short: In *YMIW workshop @ NeurIPS2021*
+publication: "*NeurIPS 2021 Workshop: Your Model is Wrong: Robustness and misspecification in probabilistic modeling*"
+publication_short: "*YMIW workshop*"
 
 abstract: Variational autoencoders (VAEs) have been successfully applied to complex input data such as images and videos. Counterintuitively, their application to simpler, heterogeneous data—where features are of different types, often leads to underwhelming results. While the goal in the heterogeneous case is to accurately approximate all observed features, VAEs often perform poorly in a subset of them. In this work, we study this feature overlooking problem through the lens of multitask learning (MTL), relating it to the problem of negative transfer and the interaction between gradients from different features. With these new insights, we propose to train VAEs by leveraging off-the-shelf solutions from the MTL literature based on multi-objective optimization. Furthermore, we empirically demonstrate how these solutions significantly boost the performance of different VAE models and training objectives on a large variety of heterogeneous datasets.
 
@@ -29,7 +29,6 @@ tags:
 - Variational autoencoders
 - Deep Learning
 - Probabilistic modeling
-- Multi-objective
 featured: false
 
 links: []

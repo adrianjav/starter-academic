@@ -16,8 +16,8 @@ publishDate: "2021-10-06T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "*International Conference on Learning Representations*"
+publication_short: "*ICLR*"
 
 abstract: "Multitask learning is being increasingly adopted in applications domains like computer vision and reinforcement learning. However, optimally exploiting its advantages remains a major challenge due to the effect of negative transfer. Previous works have tracked down this issue to the disparities in gradient magnitudes and directions across tasks, when optimizing the shared network parameters. While recent work has acknowledged that negative transfer is a two-fold problem, existing approaches fall short as they only focus on either homogenizing the gradient magnitude across tasks; or greedily change the gradient directions, overlooking future conflicts. In this work, we introduce RotoGrad, an algorithm that tackles negative transfer as a whole: it jointly homogenizes gradient magnitudes and directions, while ensuring training convergence. We show that RotoGrad outperforms competing methods in complex problems, including multi-label classification in CelebA and computer vision tasks in the NYUv2 dataset."
 
@@ -31,9 +31,9 @@ tags:
 featured: true
 
 links: 
-  - name: arxiv
+  - name: arXiv
     url: https://arxiv.org/abs/2103.02631
-  - name: Thread
+  - name: '<i class="fab fa-twitter"></i> thread'
     url: https://twitter.com/javaloyML/status/1447849156517765120
 url_pdf: https://arxiv.org/pdf/2103.02631.pdf
 url_code: https://github.com/adrianjav/rotograd

@@ -19,8 +19,8 @@ publishDate: "2020-11-22T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Advances in Neural Information Processing Systems*
-publication_short: In *NeurIPS2020*
+publication: "*Advances in Neural Information Processing Systems*"
+publication_short: "*NeurIPS*"
 
 abstract: Learning expressive probabilistic models correctly describing the data is a ubiquitous problem in machine learning. A popular approach for solving it is mapping the observations into a representation space with a simple joint distribution, which can typically be written as a product of its marginals—thus drawing a connection with the field of nonlinear independent component analysis. Deep density models have been widely used for this task, but their maximum likelihood based training requires estimating the log-determinant of the Jacobian and is computationally expensive, thus imposing a trade-off between computation and expressive power. In this work, we propose a new approach for exact training of such neural networks. Based on relative gradients, we exploit the matrix structure of neural network parameters to compute updates efficiently even in high-dimensional spaces; the computational cost of the training is quadratic in the input size, in contrast with the cubic scaling of naive approaches. This allows fast training with objective functions involving the log-determinant of the Jacobian, without imposing constraints on its structure, in stark contrast to autoregressive normalizing flows.
 
@@ -34,7 +34,7 @@ tags:
 featured: false
 
 links: 
-  - name: arxiv
+  - name: arXiv
     url: https://arxiv.org/abs/2006.15090
 url_pdf: https://proceedings.neurips.cc/paper/2020/file/c10f48884c9c7fdbd9a7959c59eebea8-Paper.pdf
 url_code: https://github.com/fissoreg/relative-gradient-jacobian

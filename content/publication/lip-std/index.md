@@ -32,7 +32,7 @@ tags:
 featured: false
 
 links:
-- name: arxiv
+- name: arXiv
   url: https://arxiv.org/abs/2002.11369
 url_pdf: https://arxiv.org/pdf/2002.11369.pdf
 url_code: https://github.com/adrianjav/lipschitz-standardization
