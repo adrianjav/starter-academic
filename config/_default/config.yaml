@@ -5,7 +5,7 @@
 
 title: Adrián Javaloy # Website name
 baseurl: 'https://adrian.javaloy.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {} Adrián Javaloy' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
