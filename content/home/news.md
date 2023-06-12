@@ -13,7 +13,10 @@ design:
   columns: '1'
 ---
 
+- **Jun 2023** Our latest preprint "Causal normalizing flows: from theory to practice" is available on [arXiv](https://arxiv.org/abs/2306.05415) :bulb:
+- **May 2023** I am a [top-1% reviewer](https://iclr.cc/Conferences/2023/Reviewers) at ICLR 2023! :rocket:
 - **Jan 2023** I have been selected as a [top-10% reviewer](http://aistats.org/aistats2023/reviewers.html) at AISTATS 2023 :balloon:
 - **Jan 2023** Our work [Learnable Graph Convolutional Attention Networks](https://openreview.net/forum?id=WsUMeHPo-2) has been accepted at ICLR 2023 as a poster :tada:
-- **Dec 2022** I am co-organizing a hybrid workshop on Multimodal Representation Learning (MRL) at ICLR 2023. More info [here](https://mrl-workshop.github.io/iclr-2023/).
+- **Dec 2022** I am co-organizing a virtual workshop on [Multimodal Representation Learning (MRL)](https://mrl-workshop.github.io/iclr-2023/) at ICLR 2023.
+
 <!-- FILL UP THE REST -->
