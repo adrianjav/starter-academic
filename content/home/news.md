@@ -13,6 +13,8 @@ design:
   columns: '1'
 ---
 
+- **Dec 2023** Causal normalizing flows was accepted as an **oral** at NeurIPS 2023 :fire::fire: You can find the slides of my talk [here](http://adrianjav.github.io/uploads/causal-flow-oral-slides.pdf).
+- **Aug 2023** Causal normalizing flows won the best paper award at the [Tractable Probabilistic Modeling](https://tractable-probabilistic-modeling.github.io/tpm2023/) workshop :trophy:
 - **Jun 2023** Our latest preprint "Causal normalizing flows: from theory to practice" is available on [arXiv](https://arxiv.org/abs/2306.05415) :bulb:
 - **May 2023** I am a [top-1% reviewer](https://iclr.cc/Conferences/2023/Reviewers) at ICLR 2023! :rocket:
 - **Jan 2023** I have been selected as a [top-10% reviewer](http://aistats.org/aistats2023/reviewers.html) at AISTATS 2023 :balloon:

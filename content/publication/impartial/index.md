@@ -30,7 +30,7 @@ tags:
 - Heterogeneous data
 - Conflicting gradients
 - Multitask Learning
-featured: true
+featured: false
 
 links: 
   - name: arXiv

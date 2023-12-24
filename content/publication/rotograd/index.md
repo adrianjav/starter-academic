@@ -28,7 +28,7 @@ tags:
 - Multitask Learning
 - Negative transfer
 - Conflicting gradients
-featured: true
+featured: false
 
 links: 
   - name: arXiv
