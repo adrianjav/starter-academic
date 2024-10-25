@@ -89,6 +89,6 @@ My research focuses on developing methods that are reliable, principled, and eff
 Loosely, this resolves to adding a-priori inductive biases to models such that they comply with our expectations on how they should behave in the wild. 
 My ultimate goal is to conduct interesting and principled research to better understand machine learning models and ease their deployment in the real-world. 
 
-I try to be as approachable as possible. Feel freet o reach me through email or any of my (active) social media profiles.
+I try to be as approachable as possible. Feel free to reach me through email or any of my (active) social media profiles.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
