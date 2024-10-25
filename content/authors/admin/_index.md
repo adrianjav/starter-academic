@@ -10,26 +10,30 @@ last_name: Javaloy
 superuser: true
 
 # Role/position/tagline
-role: PhD student
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Saarland University
-  url: https://www.uni-saarland.de/en/home.html
+- name: The University of Edinburgh
+  url: https://www.ed.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student in probabilistic machine learning for heterogeneous data.
+bio: Postdoc at the University of Edinburgh working on Probabilistic Machine Learning.
 
 # Interests to show in About widget
 interests:
-- Deep generative models
-- Multimodal learning
-- Multitask learning
-- Optimization
+- Probabilistic Machine Learning
+- Deep Generative Models
+- Structured Deep Learning
+- Causality and Identifiability
+- Neurosymbolic methods
 
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Machine Learning
+    institution: Saarland University
+    year: 2024
   - course: MSc in Advance Computer Science
     institution: University of Murcia
     year: 2018
@@ -76,14 +80,15 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD student at the Probabilistic Machine Learning group working with [Isabel Valera](https://ivaleram.github.io/) at [Saarland University](https://saarland-informatics-campus.de/en/) in Germany.
+I am a postdoc at the [April lab](https://april-tools.github.io/) working alongside [Prof. Antonio Vergari](http://nolovedeeplearning.com/) on developing novel probabilistic machine learning approaches to integrate symbolic constraints within neural models, making them properly meet the expectations that we place on them. As such, we aim at making models more reliable and trustworthy.
 
-My research focuses on probabilistic machine learning models and their training dynamics (and challenges), specially when the training data comprises multiple modalities (e.g., images and their captions, or tabular data). 
-My current work involves deep generative models (normalizing flows, variational autoencoders, and probabilistic circuits), as well as graph neural networks and multitask learning.
+I completed my PhD at the [Probabilistic Machine Learning](https://machinelearning.uni-saarland.de/) group working with [Prof. Isabel Valera](https://ivaleram.github.io/) at [Saarland University](https://saarland-informatics-campus.de/en/).
+Before that, I worked at the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/) in Tübingen at the Empirical Inference department and the Probabilistic Machine Learning group.
 
+My research focuses on developing methods that are reliable, principled, and efficient. 
+Loosely, this resolves to adding a-priori inductive biases to models such that they comply with our expectations on how they should behave in the wild. 
+My ultimate goal is to conduct interesting and principled research to better understand machine learning models and ease their deployment in the real-world. 
 
-My ultimately goal is to conduct principled research that aims to better understand machine learning and ease its deployment in the real-world. 
-
-I am always happy to discuss new ideas, and I am always available via [twitter](https://twitter.com/javaloyML) and email.
+I try to be as approachable as possible. Feel freet o reach me through email or any of my (active) social media profiles.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

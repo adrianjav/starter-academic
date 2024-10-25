@@ -13,6 +13,8 @@ design:
   columns: '1'
 ---
 
+- **Oct 2024** I have joined [April](https://april-tools.github.io/) as a Postdoc at the Universty of Edimburgh :see_no_evil:
+- **Oct 2024** I have submitted my PhD thesis :partying_face:
 - **Dec 2023** Causal normalizing flows was accepted as an **oral** at NeurIPS 2023 :fire::fire: You can find the slides of my talk [here](http://adrianjav.github.io/uploads/causal-flow-oral-slides.pdf).
 - **Aug 2023** Causal normalizing flows won the best paper award at the [Tractable Probabilistic Modeling](https://tractable-probabilistic-modeling.github.io/tpm2023/) workshop :trophy:
 - **Jun 2023** Our latest preprint "Causal normalizing flows: from theory to practice" is available on [arXiv](https://arxiv.org/abs/2306.05415) :bulb:
