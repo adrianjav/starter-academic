@@ -80,7 +80,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a postdoc at the [April lab](https://april-tools.github.io/) working alongside [Prof. Antonio Vergari](http://nolovedeeplearning.com/) on developing novel probabilistic machine learning approaches to integrate symbolic constraints within neural models, making them properly meet the expectations that we place on them. As such, we aim at making models more reliable and trustworthy.
+I am a postdoc at the [April lab](https://april-tools.github.io/) working alongside [Dr. Antonio Vergari](http://nolovedeeplearning.com/) on developing novel probabilistic machine learning approaches to integrate symbolic constraints within neural models, making them properly meet the expectations that we place on them. As such, we aim at making models more reliable and trustworthy.
 
 I completed my PhD at the [Probabilistic Machine Learning](https://machinelearning.uni-saarland.de/) group working with [Prof. Isabel Valera](https://ivaleram.github.io/) at [Saarland University](https://saarland-informatics-campus.de/en/).
 Before that, I worked at the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/) in Tübingen at the Empirical Inference department and the Probabilistic Machine Learning group.
