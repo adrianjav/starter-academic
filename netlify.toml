@@ -23,4 +23,4 @@
 [[redirects]]
 from = "/*"
 to = "http://adrianjav.github.io"
-status = 301
+status = 301!
