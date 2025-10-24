@@ -21,6 +21,7 @@
     debug = true
 
 [[redirects]]
-from = "/*"
-to = "http://adrianjav.github.io"
-status = 301!
+  from = "/*"
+  to = "http://adrianjav.github.io"
+  status = 301
+  force = true
